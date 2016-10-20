@@ -1,0 +1,13 @@
+Games Mechanics exam revision
+
+(Two vectors) Calculating direction: toPos - fromPos (b - a)
+
+(Two Vectors) Calculating distance: sqRt(a1b1)^2(a2b2)^2(a3b3)^2 = sqRt c = d
+
+(One vector) Calculating normalisation value: |(a,b,c)| = sqRt(a^2,b^2,c^2) = sqRt (a,b,c) = sqRt(d) = e ANS = 1/e(a,b,c)
+
+(e carries over from normalisation to scalar)
+
+(Two products) Scalar dot product of direction and normalisation: (a1,b1,c1) * 1/e(a2,b2,c2) = 1/e((a1)(a2) + (b1)(b2) + (c1)(c2)) = 1/e(a3,b3,c3) = 1/e(d) = f
+
+if(scalar dot product less than 90/greater than -90) = yes, else = no
